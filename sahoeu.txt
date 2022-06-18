@@ -1,4 +1,0 @@
-fastestmirror=True
-max_parallel_downloads=3
-defaultyes=True
-keepcache=True
